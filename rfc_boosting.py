@@ -16,7 +16,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.ensemble import AdaBoostRegressor
 
-df = pd.read_csv("../DATA/rock_density_xray.csv")
+df = pd.read_csv("rock_density_xray.csv")
 
 df.head()
 
